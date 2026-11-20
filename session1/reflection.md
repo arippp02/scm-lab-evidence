@@ -24,3 +24,5 @@ Commands that changed only my computer: git init, git add, git commit, git switc
 | Merge | Combining the work of two branches into one. |
 | Remote | A copy of the repository on another server, for example origin on GitHub. |
 | Push / Pull / Clone | Push uploads commits to the remote; pull downloads and integrates new commits; clone copies a remote repository for the first time. |
+
+GitHub Skills exercise: https://github.com/arippp02/skills-introduction-to-github - branch my-first-branch, commit "Create PROFILE.md", pull request #2 (merged into main).
