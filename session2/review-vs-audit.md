@@ -1,0 +1,3 @@
+# Code review versus configuration audit
+
+A code review is an informal, ongoing check done by a developer on a single change before it is merged. For example, in PR #2 I checked that only session2/traceability-note.md changed, that the commit referenced #1, and that there were no secrets. A formal configuration audit is a planned, documented check of a whole product at a milestone, usually done by an independent team: the Functional Configuration Audit (FCA) checks that the product does what its requirements say, and the Physical Configuration Audit (PCA) checks that what was built matches its documentation.
